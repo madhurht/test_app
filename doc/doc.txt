@@ -1,0 +1,9 @@
+Git is used  as a version control system.It helps developer to manage and build code easily.
+Git helps you to collaborate yor project with other team members. you can share the code by using gitHub.
+Some common git commands:
+Git add
+commit
+push 
+pull
+merge 
+branch etc
